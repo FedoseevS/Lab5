@@ -17,7 +17,8 @@ else
     gui_mainfcn(gui_State, varargin{:});
 end
 % Кінець коду ініціалізації
-
+% коментар 1 
+%коментар 2 
 
 function ide_OpeningFcn(hObject, eventdata, handles, varargin)
 
